@@ -1,6 +1,6 @@
 # AppClima
 
-Projeto desenvolvido usando da API [OpenWeatherMap](https://openweathermap.org/) onde uma busca é efetuada usando o nome da cidade. O resultado mostra algumas informações a respeito do clima na cidade, como temperatura atual, máxima e mínima, uma pequena descrição do tempo além da velocidade do vento e os horário do nascer e pôr do sol.
+Projeto desenvolvido usando da API [OpenWeatherMap](https://openweathermap.org/) onde uma busca é efetuada usando o nome da cidade. O resultado mostra algumas informações a respeito do clima na cidade, como temperatura atual, máxima e mínima, uma pequena descrição do tempo além da velocidade do vento e os horário do nascer e pôr do sol. Pode ser testado [aqui!](https://carenferreira.github.io/AppClima/index.html)
 
 ## Ferramentas
 * CSS
